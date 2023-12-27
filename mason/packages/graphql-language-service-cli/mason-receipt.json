@@ -1,0 +1,1 @@
+{"metrics":{"completion_time":1673196369397,"start_time":1673196359275},"secondary_sources":[{"package":"graphql","type":"npm"}],"schema_version":"1.0","name":"graphql-language-service-cli","primary_source":{"package":"graphql-language-service-cli","type":"npm"},"links":{"bin":{"graphql-lsp":"node_modules\/.bin\/graphql-lsp"}}}
